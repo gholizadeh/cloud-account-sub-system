@@ -1,0 +1,3 @@
+[submodule "cloud-account-sub-system-shared-dto"]
+	path = cloud-account-sub-system-shared-dto
+	url = https://github.com/gholizadeh/cloud-account-sub-system-shared-dto.git
